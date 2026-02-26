@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+owner: nyaabaaugustine-hue
+name: trash-enterprenuer
+package: .
